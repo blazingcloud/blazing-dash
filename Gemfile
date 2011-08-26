@@ -10,6 +10,7 @@ gem 'devise', '1.4.2'
 gem 'simple_form', '1.4.2'
 gem 'haml', '3.1.2'
 gem 'omniauth', '0.2.6'
+gem 'pg', '0.11.0'
 
 gem 'heroku'
 
