@@ -6,4 +6,4 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require_tree .
+//= require vendor/backbone.0.5.3

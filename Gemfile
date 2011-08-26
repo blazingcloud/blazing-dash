@@ -9,6 +9,7 @@ gem 'sqlite3', '1.3.4'
 gem 'devise', '1.4.2'
 gem 'simple_form', '1.4.2'
 gem 'haml', '3.1.2'
+gem 'omniauth', '0.2.6'
 
 
 # Gems used only for assets and not required
