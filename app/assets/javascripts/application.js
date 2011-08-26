@@ -7,3 +7,4 @@
 //= require jquery
 //= require jquery_ujs
 //= require vendor/backbone.0.5.3
+//= require vendor/underscore.1.1.7
