@@ -28,6 +28,6 @@ gem 'jquery-rails'
 # gem 'ruby-debug19', :require => 'ruby-debug'
 
 group :test do
-  # Pretty printed test output
-  gem 'turn', :require => false
+  gem 'rspec-rails', '2.6.1'
+  gem 'rr', '1.0.3'
 end
