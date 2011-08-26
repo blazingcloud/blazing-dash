@@ -5,7 +5,10 @@ gem 'rails', '3.1.0.rc5'
 # Bundle edge Rails instead:
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
 
-gem 'sqlite3'
+gem 'sqlite3', '1.3.4'
+gem 'devise', '1.4.2'
+gem 'simple_form', '1.4.2'
+gem 'haml', '3.1.2'
 
 
 # Gems used only for assets and not required
@@ -13,10 +16,10 @@ gem 'sqlite3'
 group :assets do
   gem 'sass-rails', "~> 3.1.0.rc"
   gem 'coffee-rails', "~> 3.1.0.rc"
-  gem 'uglifier'
+  gem 'uglifier', '1.0.1'
 end
 
-gem 'jquery-rails'
+gem 'jquery-rails', '1.0.13'
 
 # Use unicorn as the web server
 # gem 'unicorn'
