@@ -11,6 +11,8 @@ gem 'simple_form', '1.4.2'
 gem 'haml', '3.1.2'
 gem 'omniauth', '0.2.6'
 
+gem 'heroku'
+
 
 # Gems used only for assets and not required
 # in production environments by default.
