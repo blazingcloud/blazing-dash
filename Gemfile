@@ -5,7 +5,6 @@ gem 'rails', '3.1.0.rc5'
 # Bundle edge Rails instead:
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
 
-gem 'sqlite3', '1.3.4'
 gem 'devise', '1.4.2'
 gem 'simple_form', '1.4.2'
 gem 'haml', '3.1.2'
