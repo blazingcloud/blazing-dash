@@ -1,6 +1,8 @@
 BlazingDash::Application.routes.draw do
   root to: "home#index"
 
+  get "/test_backbone" => "test_backbone#index"
+  get "/test_backbone/weekly_data" => "test_backbone#weekly_data"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

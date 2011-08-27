@@ -33,7 +33,8 @@ gem 'jquery-rails', '1.0.13'
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
 
-group :test do
+group :test, :development do
+  gem 'rspec', '2.6.0'
   gem 'rspec-rails', '2.6.1'
-  gem 'rr', '1.0.3'
+  #gem 'rr', '1.0.3'
 end
